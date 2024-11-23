@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalWebhookEndpoint", "LocalWebhookEndpoint.csproj", "{B02C58FD-165C-4FA0-8AEB-B7E496C923EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02C58FD-165C-4FA0-8AEB-B7E496C923EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02C58FD-165C-4FA0-8AEB-B7E496C923EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02C58FD-165C-4FA0-8AEB-B7E496C923EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02C58FD-165C-4FA0-8AEB-B7E496C923EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADBA2EA-3ACB-4D3C-92FF-9D0ABEC21C45}
+	EndGlobalSection
+EndGlobal
